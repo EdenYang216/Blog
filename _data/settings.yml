@@ -1,9 +1,9 @@
 #-------------------------------
 # General Site Settings
-url: https://blog.markkulab.net/
+url: https://www.edenyang.com/
 title: Eden Yang
 logo: mylogo.webp # You can add own logo.
-description: 擁有豐富網站開發經驗，直播系統、POS系統、電子商務、平台網站、SEO，專業的網站開發鐵三工程師。
+description: EDEN Y. Makeup studio | 歐美造型 |歐美妝 |新娘造型 |外拍婚紗 |不凋花造型 |不凋花花圈 |永生花造型 |永生花花圈 |新娘秘書推薦  |新秘 |新秘教學 |婚紗造型
 
 
 #-------------------------------
@@ -12,7 +12,7 @@ author:
   name: Eden Yang
   image: 04.jpg
   say-hello: Hi, I’m <strong>Eden Yang</strong>
-  bio: 擁有多年的設計經驗的設計師
+  bio: EDEN Y. Makeup studio | 歐美造型 |歐美妝 |新娘造型 |外拍婚紗 |不凋花造型 |不凋花花圈 |永生花造型 |永生花花圈 |新娘秘書推薦  |新秘 |新秘教學 |婚紗造型
 
 
 #-------------------------------
