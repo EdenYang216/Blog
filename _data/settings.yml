@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 url: https://blog.markkulab.net/
-title: Mark.Ku
+title: Connie
 logo: mylogo.webp # You can add own logo.
 description: 擁有豐富網站開發經驗，直播系統、POS系統、電子商務、平台網站、SEO，專業的網站開發鐵三工程師。
 
@@ -9,16 +9,16 @@ description: 擁有豐富網站開發經驗，直播系統、POS系統、電子�
 #-------------------------------
 # Author Settings
 author:
-  name: Mark.Ku
-  image: 01.webp
-  say-hello: Hi, I’m <strong>Mark.Ku</strong>
-  bio: 擁有豐富網站開發經驗，直播系統、POS系統、電子商務、平台網站、SEO，專業的網站開發鐵三工程師。
+  name: Connie
+  image: 04.jpg
+  say-hello: Hi, I’m <strong>Connie</strong>
+  bio: 擁有多年的設計經驗的設計師
 
 
 #-------------------------------
 # Contact links
 
-facebook: https://www.facebook.com/mark.ku.509/ # Add your Facebook handle
+facebook: https://www.facebook.com/Connie.509/ # Add your Facebook handle
 website: https://works.markkulab.net/zh-TW/Works # Add your Facebook handle
 
 
