@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 url: https://blog.markkulab.net/
-title: Connie
+title: Eden Yang
 logo: mylogo.webp # You can add own logo.
 description: 擁有豐富網站開發經驗，直播系統、POS系統、電子商務、平台網站、SEO，專業的網站開發鐵三工程師。
 
@@ -9,17 +9,17 @@ description: 擁有豐富網站開發經驗，直播系統、POS系統、電子�
 #-------------------------------
 # Author Settings
 author:
-  name: Connie
+  name: Eden Yang
   image: 04.jpg
-  say-hello: Hi, I’m <strong>Connie</strong>
+  say-hello: Hi, I’m <strong>Eden Yang</strong>
   bio: 擁有多年的設計經驗的設計師
 
 
 #-------------------------------
 # Contact links
 
-facebook: https://www.facebook.com/toino21 # Add your Facebook handle
-website: https://www.facebook.com/toino21 # Add your Facebook handle
+facebook: https://www.facebook.com/eden.yang.77 # Add your Facebook handle
+website: https://www.facebook.com/eden.yang.77 # Add your Facebook handle
 
 
 #-------------------------------
