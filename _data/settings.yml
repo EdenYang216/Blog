@@ -1,25 +1,25 @@
 #-------------------------------
 # General Site Settings
-url: https://blog.markkulab.net/
-title: Eden Yang
+url: https://www.connieuiux.com/
+title: Connie
 logo: mylogo.webp # You can add own logo.
-description: 擁有多年的設計經驗的婚紗攝影師
+description: UIUX designe/ Visual design/ Animation / Interaction
 
 
 #-------------------------------
 # Author Settings
 author:
-  name: Eden Yang
+  name: Connie
   image: 04.jpg
-  say-hello: Hi, I’m <strong>Eden Yang</strong>
-  bio: 擁有多年的設計經驗的婚紗攝影師
+  say-hello: Hi, I’m <strong>Connie</strong>
+  bio: UIUX designe/ Visual design/ Animation / Interaction
 
 
 #-------------------------------
 # Contact links
 
-facebook: https://www.facebook.com/eden.yang.77 # Add your Facebook handle
-website: https://www.facebook.com/eden.yang.77 # Add your Facebook handle
+facebook: https://www.facebook.com/toino21 # Add your Facebook handle
+website: https://www.facebook.com/toino21 # Add your Facebook handle
 
 
 #-------------------------------
